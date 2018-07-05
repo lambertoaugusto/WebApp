@@ -1,0 +1,2 @@
+* linguist-vendored
+*.aspx.cs linguist-vendored=false
